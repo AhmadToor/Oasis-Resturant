@@ -59,7 +59,7 @@ for details.
 
 ## Contact
 
-For questions or feedback, please email <ahmadtoor4321@gmail.con> or open
+For questions or feedback, please email <ahmadtoor4321@gmail.com> or open
 an issue on this repository.
 
 
